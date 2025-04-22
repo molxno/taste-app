@@ -1,0 +1,24 @@
+{
+    "preset": "psr12",
+    "rules": {
+        "braces": {
+            "position_after_functions_and_oop_constructs": "next",
+            "allow_single_line_closure": true,
+            "position_after_control_structures": "same"
+        },
+        "method_argument_space": {
+            "on_multiline": "ignore",
+            "keep_multiple_spaces_after_comma": false
+        },
+        "indentation_type": true,
+        "single_blank_line_at_eof": true,
+        "no_trailing_whitespace": true,
+        "no_whitespace_in_blank_line": true,
+        "simplified_null_return": true,
+        "new_with_braces": {
+            "anonymous_class": true,
+            "named_class": true
+        },
+        "single_quote": true
+    }
+}
