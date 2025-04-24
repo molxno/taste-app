@@ -1,23 +1,35 @@
-## Descripción
+## 🎯 Milestone
 
-- ¿Qué problema soluciona este PR?
-- ¿Qué cambios se han realizado?
+What is intended to be achieved with the PR.
+If the PR is not linked to issue, add the link pointing to the task
 
-## Tipo de cambio
+[Issue](url)
 
-- [ ] Feature (añade una nueva funcionalidad)
-- [ ] Bugfix (arregla un error)
-- [ ] Refactorización (cambios en el código sin alterar su funcionalidad)
-- [ ] Documentación (cambios en la documentación)
-- [ ] Hotfix (corrección urgente de producción)
 
-## ¿Cómo se ha probado?
+### 🛠 Changes
 
-Describe cómo probaste los cambios en el PR.
+Here give examples of the changes you've made in this pull request.
+Include an itemized list if you can. It'll help the reviewer.
 
-## Checklist
 
-- [ ] El código sigue las convenciones de estilo.
-- [ ] Se han agregado pruebas.
-- [ ] El PR incluye una descripción detallada de los cambios.
-- [ ] Se han resuelto todas las dependencias antes de realizar el merge.
+### 📘 Documentation
+
+- [ ] I have added or updated the documentation
+- [ ] No documentation update is required
+
+
+### 📸 Screenshots (Optional)
+
+If you made UI changes, what are the before an afters?
+
+
+### ✅ Unit test
+screenshots unit test
+
+
+### 📊 Coverage (Optional)
+screenshots coverage
+
+
+### 🧹 Linter and Formatter (Optional)
+screenshots linter and formatters
